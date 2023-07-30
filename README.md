@@ -8,9 +8,14 @@ Projects based on Data Science
 
 ***Keywords:*** *IMDb, movie dataset, data analysis, Pandas, Matplotlib, visualization, movie genres, movie ratings, movie directors.*
 
+***DATASET INFORMATION:*** The dataset for this project is taken from Kaggle.('imdb_top_1000.csv') 
+
+Link for Dataset:https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows
 **INTRODUCTION:**
 
 The IMDb TOP 1000 movie dataset contains a rich set of information about the highest-rated movies on IMDb, making it an excellent resource for exploring and analyzing trends in the film industry. This report aims to delve into the dataset and extract meaningful insights to better understand the characteristics of top-rated movies. By analyzing aspects like movie genres, ratings, and directors, we can gain valuable knowledge about the preferences of IMDb users and the contributions of directors to the movie industry.
+
+
 
 **DATA EXPLORATION**
 

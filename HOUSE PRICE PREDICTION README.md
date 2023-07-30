@@ -1,4 +1,0 @@
-**HOUSE PRICE PREDICTION**
-
-
-

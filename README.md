@@ -61,3 +61,5 @@ The results of the data analysis provide valuable insights into the IMDb TOP 100
 
 For further analysis, More in-depth analyses and visualizations can be conducted to explore specific aspects of the dataset further. Additionally, incorporating other datasets or external data sources can enrich the analysis and provide a more comprehensive understanding of factors influencing movie ratings, genres, and directors' contributions. Moreover, machine learning techniques can be applied to predict movie ratings based on various features or to recommend movies to users based on their preferences.
 
+
+
